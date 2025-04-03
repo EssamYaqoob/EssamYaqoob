@@ -41,11 +41,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=essamyaqoob&theme=light-green" alt="essamyaqoob" width="400" height="160" />
 </p>
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Achievements:
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=essamyaqoob&theme=white&no-frame=true&row=1&column=6" alt="essamyaqoob" />
   </a>
+</p>
+
+### 👀 Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=essamyaqoob&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
